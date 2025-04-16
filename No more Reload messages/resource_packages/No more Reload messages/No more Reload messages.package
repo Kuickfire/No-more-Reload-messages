@@ -1,0 +1,11 @@
+mod = [
+	"No more Reload messages"
+]
+
+package = [
+	"resource_packages/No more Reload messages/No more Reload messages"
+]
+
+lua = [
+	"scripts/mods/No more Reload messages/*"
+]
